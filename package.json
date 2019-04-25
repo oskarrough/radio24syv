@@ -1,0 +1,9 @@
+{
+	"name": "radio24syv-scraper",
+	"scripts": {
+		"start": "node ."
+	},
+	"dependencies": {
+		"got": "^9.6.0"
+	}
+}
